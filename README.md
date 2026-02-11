@@ -1,9 +1,7 @@
-<h1 align="center">hi 👋 i'm sona sharma</h1>
+<h1 align="center">Hey 👋 I'm Sona Sharma</h1>
 
 <p align="center">
-💻 frontend & backend developer <br>
-✨ php • javascript • mysql • web development <br>
-📍 jamshedpur, jharkhand, india
+💻 Full Stack Developer
 </p>
 
 <p align="center">
@@ -14,14 +12,14 @@
 
 ---
 
-## ✨ about me
+## ✨ About me
 
 i’m a passionate frontend & backend developer with hands-on experience building dynamic and responsive web applications using php, javascript, and mysql.  
 i love converting ideas into real-world projects and continuously improving my skills through practical development.
 
 ---
 
-## 🛠 tech stack
+## 🛠 Tech Stack
 
 ![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -46,7 +44,7 @@ i love converting ideas into real-world projects and continuously improving my s
 
 ---
 
-## 🚀 projects
+## 🚀 Projects
 
 ### 🌟 stylista
 - dynamic styling categories  
