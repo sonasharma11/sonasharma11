@@ -16,30 +16,33 @@
 
 ## ✨ about me
 
-i’m a passionate frontend & backend developer who loves building dynamic and responsive web applications.  
-i enjoy turning ideas into real-world projects and continuously improving my development skills through hands-on practice.
+i’m a passionate frontend & backend developer with hands-on experience building dynamic and responsive web applications using php, javascript, and mysql.  
+i love converting ideas into real-world projects and continuously improving my skills through practical development.
 
 ---
 
 ## 🛠 tech stack
 
-### frontend
-html5 • css3 • javascript • bootstrap  
-
-### backend
-php • mysql  
-
-### tools
-git • github • vs code • composer • phpmailer  
-
----
-
-## 💼 internship experience
-
-- worked on real-world php & mysql based projects  
-- implemented frontend & backend integration  
-- performed database design & crud operations  
-- learned basic deployment & version control  
+![css3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![c](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![c#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![c++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![html5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![aws](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![canva](https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -48,22 +51,14 @@ git • github • vs code • composer • phpmailer
 ### 🌟 stylista
 - dynamic styling categories  
 - clean & responsive ui using bootstrap  
-- improved user interaction with javascript  
+- enhanced user interaction using javascript  
 
 ### 🌟 jobfinder
 - job portal web application using php & mysql  
-- user registration & login system  
+- user registration & login  
 - job posting & job search  
-- job application management  
+- job application system  
 - strong backend logic & smooth ux  
-
----
-
-## 🌱 currently learning
-
-- advanced php & backend frameworks  
-- modern javascript & interactive ui  
-- website deployment (github pages / netlify)  
 
 ---
 
