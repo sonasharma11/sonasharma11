@@ -14,7 +14,7 @@
 
 ## ✨ About me
 
-i’m a passionate frontend & backend developer with hands-on experience building dynamic and responsive web applications using php, javascript, and mysql.  
+i’m a passionate frontend & backend developer with hands-on experience building dynamic and responsive web applications using html5, css3, bootstrap, javascript, php and mysql.  
 i love converting ideas into real-world projects and continuously improving my skills through practical development.
 
 ---
