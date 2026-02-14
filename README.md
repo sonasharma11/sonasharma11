@@ -8,6 +8,8 @@
 <a href="mailto:sonasharma42003@gmail.com">📫 email</a> •
 <a href="https://www.linkedin.com/in/sona-sharma-ss">linkedin</a> •
 <a href="https://github.com/sonasharma11">github</a>
+<a
+href="https://sona-portfolio-site.netlify.app/">portfolio</a>
 </p>
 
 ---
